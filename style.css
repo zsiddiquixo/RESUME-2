@@ -109,4 +109,29 @@ thead{
   .main-content p {
     line-height: 1.6;
   }
+  .thead {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+  }
   
+  .thead th, .thead td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  #education {
+    columns: backdrop;
+ }
+
+ table { border-collapse: collapse; border-spacing: 0; 
+  width: 100%;
+}
+ td { vertical-align: top; }
+
+ td{	
+  border: 1px solid #ddd;
+  padding: 2px;
+}

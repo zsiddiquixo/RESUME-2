@@ -142,3 +142,8 @@ li {
 a { color: rgb(0, 183, 255);
 
 }
+img { 
+width: 1000%;
+height: auto;
+padding-bottom: 3px;
+}

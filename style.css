@@ -48,7 +48,7 @@ thead{
   .sidebar h1 {
     font-size: 24px;
     margin-bottom: 5px;
-    padding-top: 500px;
+    padding-top: 400px;
   }
   
   .sidebar .title {
@@ -146,6 +146,7 @@ a { color: rgb(0, 183, 255);
 img { 
 width: 1000%;
 height: auto;
-padding-bottom: 3px;
+padding-bottom: 300px;
+justify-content: space-around;
 }
 
